@@ -1,7 +1,7 @@
 # GitHub for Developers
 
-- Class Date: THIS-DATE
-- Facilitator: @TEACHER-HANDLE
+- Class Date: July 17 - 18, 2024
+- Facilitator: @Juma Aman
 
 ## Class Resources
 
