@@ -2,6 +2,7 @@
 
 - Class Date: July 17 - 18, 2024
 - Facilitator: @Juma Aman
+- Test
 
 ## Class Resources
 
